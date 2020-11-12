@@ -1,0 +1,12 @@
+Login testing using Selenium
+username,password,eo
+DE140069,11111111,Wrong password,
+DE140069,22222222,admin,
+DE612121,12345678,This account doesn't exist,
+DE140148,12341234,admin,
+DE140148,123412345,Wrong password,
+DE11121,12345678,This account doesn't exist,
+DE140248,12345678,admin,
+DE150021,1234512345,user,
+Giangggg,11111112,Wrong password,
+Giangggg,11111111,user,
